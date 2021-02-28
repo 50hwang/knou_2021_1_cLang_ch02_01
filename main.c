@@ -4,7 +4,7 @@ int main() {
   char ch;
   int in;
   ch = in = 'A';
-  printf("repl.it VCS test and cLion :-)\n\n");
+  printf("repl.it VCS test and cLion 2 :-)\n\n");
   printf("ch = %d\n", ch);
   printf("in = %d\n", in);
   ch = in = 100;
